@@ -1,0 +1,9 @@
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-03-15T12:05:09Z","value":"2217"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-03-16T12:05:09Z","value":"2218"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-03-17T12:05:09Z","value":"2219"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-03-18T12:05:09Z","value":"2220"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-03-19T12:05:09Z","value":"2221"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-03-20T12:05:09Z","value":"2222"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-05-02T12:05:09Z","value":"2223"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-05-02T12:05:09Z","value":"2224"}
+metrics-rdbms-7:{"labels":{"account_id":"2007248","type":"managed","__name__":"ddi_active_ips","storage_id":"2307248"},"name":"ddi_active_ips","timestamp":"2022-05-02T12:05:09Z","value":"2225"}
